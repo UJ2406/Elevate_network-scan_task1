@@ -137,14 +137,14 @@ sudo nmap -sS 192.168.13.0/24
 
 ## 🚀 Key Takeaways
 
-1. ✅ Successfully scanned 256 IP addresses in the local network
-2. ✅ Discovered 4 active hosts in a VMware virtual environment
-3. ✅ Identified 1 open port (DNS on port 53)
-4. ✅ Learned about port states: open, closed, and filtered
-5. ✅ Understood the importance of firewalls and filtered ports
-6. ✅ Gained practical experience with Nmap and TCP SYN scanning
-7. ✅ Analyzed security implications of open ports
-8. ✅ Developed network reconnaissance fundamentals
+1.  Successfully scanned 256 IP addresses in the local network
+2.  Discovered 4 active hosts in a VMware virtual environment
+3.  Identified 1 open port (DNS on port 53)
+4.  Learned about port states: open, closed, and filtered
+5.  Understood the importance of firewalls and filtered ports
+6.  Gained practical experience with Nmap and TCP SYN scanning
+7.  Analyzed security implications of open ports
+8.  Developed network reconnaissance fundamentals
 
 ---
 
