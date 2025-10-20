@@ -1,5 +1,5 @@
 
-# Cybersecurity Internship - Task 1: Local Network Port Scanning
+# Local Network Port Scanning (Task 1)
 
 ## 📋 Task Overview
 This task focuses on learning network reconnaissance by scanning a local network to discover open ports and understand network exposure. 
